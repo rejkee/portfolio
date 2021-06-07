@@ -1,0 +1,38 @@
+body {
+    padding-top: 0rem;
+    padding-bottom: 3rem;
+    background-color: #EAE7D6;
+  }
+
+.featurette-divider {
+    margin: 5rem 0;
+  }
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    /* rtl:remove */
+    letter-spacing: -.05rem;
+  }
+
+.linktosite {
+  margin: 0 auto;    
+  display: block;
+  text-align: center;
+  }
+
+#myimg {
+    margin-bottom: 300px;
+ }
+  
+@media (min-width: 40em) {
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+@media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
